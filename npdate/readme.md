@@ -6,6 +6,9 @@
 ██║ ╚████║██║███████╗██████╔╝██║  ██║   ██║   ███████╗
 ╚═╝  ╚═══╝╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝
 </pre>
+
+<pre>Tested on MacOS BigSur and Ubuntu.</pre>
+
 # Description
 ## It is a bash script that allows you to see both nepali as well as international date in comfort of your terminal. It also allows you to convert International Date to Nepali Date and vice versa.
 
