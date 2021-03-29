@@ -32,7 +32,7 @@ function convertnepali(){
   echo "An error Occured. Make sure the date is in YYYY/MM/DD format.
   "
 else
-	echo "The Nepali date🇳🇵 for $idate is : $propnepdate
+	echo "The Nepali date for $idate is : $propnepdate
 	"
 fi
 }
@@ -45,7 +45,7 @@ function convertinternational(){
   		echo "An error Occured. Make sure the date is in YYYY/MM/DD format.
   		"
 	else
-		echo "The International date 🌎 for $propnepdate is : $propengdate
+		echo "The International date for $propnepdate is : $propengdate
 		"
 	fi
 }
@@ -55,8 +55,8 @@ function normal(){
 	output=`curl -s -XPOST -d "actionName=dconverter&datefield=$(date +%F)&convert_option=eng_to_nep" 'https://www.hamropatro.com/getMethod.php'`
 	engdate=`echo "$output" | sed "s/.*<\/strong>//;s/|.*//"`
 	nepdate=`echo "$output" | sed "s/.*<span>//;s/<\/span>.*//"`
-	echo "Nepali Date🇳🇵 : $nepdate"
-	echo "International Date 🌎 : $engdate
+	echo "Nepali Date : $nepdate"
+	echo "International Date : $engdate
 	"
 }
 
