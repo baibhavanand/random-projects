@@ -1,2 +1,2 @@
 # Random Projects
-Here you'll find some of my random projects which doesn't deserve their own repository.
+I built these because I was bored. Here stays some of my random projects that doesn't deserve their own repository.
