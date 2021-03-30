@@ -9,6 +9,8 @@
 
 <pre>Tested on macOS Big Sur and Ubuntu.</pre>
 
+![](https://komarev.com/ghpvc/?username=baibhavanandnpdate&label=TOTAL+HITS)
+
 # Description
 ## It is a bash script that allows you to see both Nepali as well as International date in comfort of your terminal. It also allows you to convert International Date to Nepali Date and vice versa.
 
