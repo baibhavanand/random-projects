@@ -5,8 +5,8 @@
 /_/|_/\_,_/_/_/_/\___/\_,_/\__/___/___/
 </pre>
 
-<pre>Tested in macOS Big Sur and Ubuntu</pre>
-<pre>Note: It is not an original idea. But my code is original</pre>
+<pre>Tested in macOS Big Sur and Ubuntu.</pre>
+<pre>Note: It is not an original idea. But my code is original.</pre>
 
 
 ## Description
